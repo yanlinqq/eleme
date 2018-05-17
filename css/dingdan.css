@@ -1,0 +1,180 @@
+.first{
+    width: 100%;
+    height: 0.88rem;
+    background: #e855d2;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.first .firsta{
+    width: 100%;
+    height: 0.6rem;
+    font-size: 0.32rem;
+    color: #ffffff;
+    line-height: 0.6rem;
+    text-align: center;
+}
+.first .firstb{
+    width: 100%;
+    height: 0.28rem;
+    font-size: 0.14rem;
+    color: #ffffff;
+    line-height: 0.28rem;
+    text-align: center;
+}
+.nav{
+    width: 100%;
+    height: 10.92rem;
+    padding: 0rem 0.24rem;
+    box-sizing: border-box;
+}
+.nav .second{
+    width: 100%;
+    height: 2.73rem;
+    padding-top: 0.24rem;
+    box-sizing: border-box;
+    display: flex;
+    border: 0.03rem solid #f4e817;
+    margin-top: 0.13rem;
+}
+.nav .second .secondleft{
+    width: 2.1rem;
+    height: 2.2rem;
+    border-right: 0.05rem solid #8c7f84;
+}
+.nav .second .secondleft .ab{
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    margin: 0.24rem auto 0;
+    background-image: url("../img/xuzhou.png");
+    background-size: cover;
+}
+.nav .second .secondleft .bb{
+    width: 1.4rem;
+    height: 0.14rem;
+    margin: 0.12rem auto 0;
+    background-image: url("../img/op.png");
+    background-size: cover;
+}
+.nav .second .secondleft .cc{
+    width: 1rem;
+    height: 0.2rem;
+    margin: 0.08rem auto 0;
+    background-image: url("../img/wo.png");
+    background-size: cover;
+}
+.nav .second .secondleft .dd{
+    width: 1.3rem;
+    height: 0.3rem;
+    margin: 0.1rem auto 0;
+    border-radius: 6px;
+    color: #ffffff;
+    font-size: 0.12rem;
+    text-align: center;
+    line-height: 0.26rem;
+}
+.nav .second .secondright{
+    flex-grow: 1;
+    height: 2.4rem;
+    margin-left: 0.2rem;
+}
+.nav .second .secondright .qa{
+    width: 100%;
+    height: 0.28rem;
+    color: red;
+    font-size: 0.28rem;
+    line-height: 0.28rem;
+}
+.nav .second .secondright .qb{
+    width: 100%;
+    height: 0.16rem;
+    color: #8c7f84;
+    font-size: 0.16rem;
+    line-height: 0.16rem;
+    margin-top: 0.14rem;
+}
+.nav .second .secondright .qc{
+    width: 1.6rem;
+    height: 0.12rem;
+    font-size: 0.12rem;
+    line-height: 0.12rem;
+    margin-top: 0.14rem;
+    background-image: url("../img/qw.png");
+    background-size: cover;
+}
+.nav .second .secondright p{
+    width: 4.3rem;
+    height: 0.5rem;
+    line-height: 0.3rem;
+    color: #333333;
+    font-size: 0.16rem;
+    text-align: center;
+    margin-top: 0.14rem;
+}
+.nav .second .secondright .qe{
+    width: 3rem;
+    height: 0.25rem;
+    margin-top: 0.14rem;
+}
+.nav .second .secondright .qe .left{
+    width: 1.5rem;
+    height: 0.3rem;
+}
+.nav .second .secondright .qe .left .one{
+    width: 0.3rem;
+    height: 0.3rem;
+    border-radius: 50%;
+    display: flex;
+    font-size: 0.12rem;
+}
+.nav .second .secondright .qe .left .one i{
+    width: 0.3rem;
+    height: 0.3rem;
+    color: #ffffff;
+    font-size: 0.2rem;
+    line-height: 0.3rem;
+    text-align: center;
+}
+.dibu{
+    width: 100%;
+    height: 1.01rem;
+    background: #645f62;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.dibu .coming{
+    width: 20%;
+    height: 1.01rem;
+    float: left;
+    color: #ffffff;
+    font-size: 0.1rem;
+    text-align: center;
+    margin-top: 0.18rem;
+}
+.dibu .coming i{
+    width: 100%;
+    height: 0.4rem;
+    text-align: center;
+    color: #ffffff;
+    font-size: 0.4rem;
+}
+.dibu .coming .ou{
+    width: 100%;
+    height: 0.2rem;
+    color: #ffffff;
+    font-size: 0.2rem;
+    text-align: center;
+}
+.dibu .coming .serg{
+    color: red;
+}
+.dibu .coming .py{
+    color: red;
+}

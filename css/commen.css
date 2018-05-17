@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color:#000;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+input , textarea , buttn{
+    border: none;
+    outline: none;
+}
+@font-face {font-family: 'iconfont';
+    src: url('../font/iconfont.eot');
+    src: url('../font/iconfont.eot?#iefix') format('embedded-opentype'),
+    url('../font/iconfont.woff') format('woff'),
+    url('../font/iconfont.ttf') format('truetype'),
+    url('../font/iconfont.svg#iconfont') format('svg');
+}
+.iconfont{
+    font-family: "iocnfont";
+    /*font-size: 0.16rem;*/
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    /*-wbekit-text-stroke-with:0.002rem;*/
+    -moz-osx-font-smoothing: grayscale;
+}

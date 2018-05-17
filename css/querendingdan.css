@@ -1,0 +1,341 @@
+header{
+    width: 100%;
+    height: 2.5rem;
+    background: #e833e8;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+}
+header .title{
+    width: 100%;
+    height: 0.88rem;
+    display: flex;
+    align-items: center;
+}
+header .title i{
+    font-size: 0.36rem;
+    color: #ffffff;
+}
+header .nav{
+    width: 100%;
+    height: 2.12rem;
+}
+header .nav .ding{
+    width: 100%;
+    height: 0.5rem;
+    display: flex;
+}
+header .nav .ding .dleft{
+    width: 1.3rem;
+    height: 0.5rem;
+    margin-right: 0.19rem;
+    font-size: 0.18rem;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header .nav .ding .dright{
+    width: 0.7rem;
+    height: 0.5rem;
+    border: 0.02rem solid #ffffff;
+    font-size: 0.18rem;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header .nav .kai{
+    width: 100%;
+    height: 0.6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+    font-size: 0.24rem;
+}
+header .nav .kai .kaia{
+    width: 4.9rem;
+    height: 100%;
+    color: #ffffff;
+    line-height: 0.6rem;
+}
+header .nav .kai .kaib i{
+    width: 0.24rem;
+    height: 100%;
+    color: #ffffff;
+}
+header .nav .mu{
+    width: 100%;
+    height: 0.4rem;
+    color: #ffffff;
+    font-size: 0.16rem;
+    line-height: 0.4rem;
+}
+.contain{
+    width: 100%;
+    height: 12rem;
+    padding: 0 0.24rem;
+    display: block;
+    position: relative;
+    margin-bottom: 0.98rem;
+    margin-top: 3rem;
+}
+.contain .surf{
+    width: 6.8rem;
+    height: 12.24rem;
+    position: absolute;
+    left: 0.35rem;
+    top: -0.4rem;
+}
+.contain .surf .first{
+    width: 100%;
+    height: 2rem;
+    border: 0.02rem solid #f4e817;
+    box-sizing: border-box;
+    background: #f8f1f2;
+}
+.contain .surf .first .firsta{
+    width: 100%;
+    height: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.contain .surf .first .firsta .firstaleft{
+    width: 1.2rem;
+    height: 100%;
+    margin-left: 0.1rem;
+    color: #333333;
+    font-size: 0.16rem;
+    line-height: 1rem;
+    text-align: center;
+}
+.contain .surf .first .firsta .firstaright{
+    width: 4rem;
+    height: 100%;
+    margin-right: 0.2rem;
+    color: #333333;
+    font-size: 0.16rem;
+    line-height: 1rem;
+    text-align: right;
+}
+.contain .surf .first .firstb{
+    width: 100%;
+    height: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.contain .surf .first .firstb .firstbleft{
+    width: 1.2rem;
+    height: 100%;
+    margin-left: 0.1rem;
+    color: #333333;
+    font-size: 0.16rem;
+    line-height: 1rem;
+    text-align: center;
+}
+.contain .surf .first .firstb .firstbright{
+    width: 4rem;
+    height: 100%;
+    margin-right: 0.2rem;
+    color: #333333;
+    font-size: 0.16rem;
+    line-height: 1rem;
+    text-align: right;
+}
+hr{
+    width: 6.5rem;
+    height: 0.01rem;
+    color: #f5f5f5;
+    margin: 0 auto;
+}
+.contain .surf .second{
+    width: 100%;
+    height: 7.9rem;
+    border: 0.02rem solid #f4e817;
+    box-sizing: border-box;
+    margin-top: 0.14rem;
+    background: #f8f1f2;
+}
+.contain .surf .second .secondone{
+    width: 100%;
+    height: 0.83rem;
+    margin-left: 0.1rem;
+    margin-right: 0.2rem;
+    color: red;
+    font-size: 0.34rem;
+    line-height: 0.83rem;
+}
+.contain .surf .second .secondtwo{
+    width: 100%;
+    height: 5.46rem;
+    margin-left: 0.1rem;
+    margin-right: 0.2rem;
+}
+.contain .surf .second .secondtwo .secondtwoa{
+    width: 6.47rem;
+    height: 1.82rem;
+    display: flex;
+    align-items: center;
+}
+.contain .surf .second .secondtwo .secondtwoa .one{
+    width: 1.32rem;
+    height: 1.44rem;
+    margin-right: 0.47rem;
+    background-image: url("../img/a123.png");
+    background-size: cover;
+}
+.contain .surf .second .secondtwo .secondtwoa .two{
+    width: 1.2rem;
+    height: 0.22rem;
+    font-size: 0.22rem;
+    color: #333333;
+    margin-right: 1.85rem;
+}.contain .surf .second .secondtwo .secondtwoa .three{
+     width: 1.5rem;
+     height: 0.22rem;
+     font-size: 0.22rem;
+     color: #333333;
+ }
+.contain .surf .second .secondtwo .secondtwob{
+    width: 6.47rem;
+    height: 1.82rem;
+    display: flex;
+    align-items: center;
+}
+.contain .surf .second .secondtwo .secondtwob .one{
+    width: 1.32rem;
+    height: 1.44rem;
+    margin-right: 0.47rem;
+    background-image: url("../img/bql.png");
+    background-size: cover;
+}
+.contain .surf .second .secondtwo .secondtwob .two{
+    width: 1.2rem;
+    height: 0.22rem;
+    font-size: 0.22rem;
+    color: #333333;
+    margin-right: 1.85rem;
+}.contain .surf .second .secondtwo .secondtwob .three{
+     width: 1.5rem;
+     height: 0.22rem;
+     font-size: 0.22rem;
+     color: #333333;
+ }
+.contain .surf .second .secondtwo .secondtwoc{
+    width: 6.47rem;
+    height: 1.82rem;
+    display: flex;
+    align-items: center;
+}
+.contain .surf .second .secondtwo .secondtwoc .one{
+    width: 1.32rem;
+    height: 1.44rem;
+    margin-right: 0.47rem;
+    background-image: url("../img/kl.png");
+    background-size: cover;
+}
+.contain .surf .second .secondtwo .secondtwoc .two{
+    width: 1.2rem;
+    height: 0.22rem;
+    font-size: 0.22rem;
+    color: #333333;
+    margin-right: 1.85rem;
+}.contain .surf .second .secondtwo .secondtwoc .three{
+     width: 1.5rem;
+     height: 0.22rem;
+     font-size: 0.22rem;
+     color: #333333;
+ }
+.contain .surf .second .secondthree{
+    width: 6.47rem;
+    height: 1.48rem;
+    margin-left: 0.1rem;
+    box-sizing: border-box;
+}
+.contain .surf .second .secondthree .one{
+    width: 100%;
+    height: 0.74rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.contain .surf .second .secondthree .one .oneleft{
+    width: 1.2rem;
+    height: 100%;
+    color: #333333;
+    font-size: 0.16rem;
+    line-height: 0.74rem;
+}
+.contain .surf .second .secondthree .one .oneright{
+    width: 3rem;
+    height: 100%;
+    color: #333333;
+    font-size: 0.16rem;
+    line-height: 0.74rem;
+    text-align: right;
+}
+.contain .surf .third{
+    width: 100%;
+    height: 2rem;
+    border: 0.02rem solid #f4e817;
+    box-sizing: border-box;
+    background: #f8f1f2;
+    margin-top: 0.14rem;
+}
+.contain .surf .third .thirdone{
+    width: 100%;
+    height: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.contain .surf .third .thirdone .left{
+    width: 1.2rem;
+    height: 100%;
+    margin-left: 0.1rem;
+    color: #333333;
+    font-size: 0.16rem;
+    line-height: 1rem;
+    text-align: center;
+}
+.contain .surf .third .thirdone .right{
+    width: 4rem;
+    height: 100%;
+    margin-right: 0.2rem;
+    color: #333333;
+    font-size: 0.16rem;
+    line-height: 1rem;
+    text-align: right;
+}
+.footer{
+    width: 100%;
+    height: 0.98rem;
+    background: #5c5656;
+    padding: 0 0 0 0.24rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+.footer .fleft{
+    width: 0.8rem;
+    height: 0.98rem;
+    color: #ffffff;
+    font-size: 0.24rem;
+    line-height: 0.98rem;
+    text-align: center;
+}
+.footer .fright{
+    width: 1.84rem;
+    height: 0.98rem;
+    background: #6f6a6a;
+    color: #ffffff;
+    font-size: 0.24rem;
+    line-height: 0.98rem;
+    text-align: center;
+}

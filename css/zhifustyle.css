@@ -1,0 +1,289 @@
+header{
+    width: 100%;
+    height: 3rem;
+    background: #e833e8;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+}
+header .title{
+    width: 100%;
+    height: 0.88rem;
+    display: flex;
+    align-items: center;
+}
+header .title i{
+    font-size: 0.36rem;
+    color: #ffffff;
+}
+header .nav{
+    width: 100%;
+    height: 2.12rem;
+}
+header .nav .ding{
+    width: 100%;
+    height: 0.5rem;
+    display: flex;
+}
+header .nav .ding .dleft{
+    width: 1.3rem;
+    height: 0.5rem;
+    margin-right: 0.19rem;
+    font-size: 0.18rem;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header .nav .ding .dright{
+    width: 0.7rem;
+    height: 0.5rem;
+    border: 0.02rem solid #ffffff;
+    font-size: 0.18rem;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header .nav .kai{
+    width: 100%;
+    height: 0.6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+    font-size: 0.24rem;
+}
+header .nav .kai .kaia{
+    width: 4.9rem;
+    height: 100%;
+    color: #ffffff;
+    line-height: 0.6rem;
+}
+header .nav .kai .kaib i{
+    width: 0.24rem;
+    height: 100%;
+    color: #ffffff;
+}
+header .nav .mu{
+    width: 100%;
+    height: 0.4rem;
+    color: #ffffff;
+    font-size: 0.16rem;
+    line-height: 0.4rem;
+}
+.contain{
+    width: 100%;
+    height: 9.35rem;
+    padding: 0 0.24rem;
+    display: block;
+    position: relative;
+}
+.contain .surf{
+    width: 6.8rem;
+    height: 9.35rem;
+    position: absolute;
+    left: 0.35rem;
+    top: -0.4rem;
+}
+.contain .surf .first{
+    width: 100%;
+    height: 2rem;
+    border: 0.02rem solid #f4e817;
+    box-sizing: border-box;
+    background: #f8f1f2;
+}
+.contain .surf .first .firsta{
+    width: 100%;
+    height: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.contain .surf .first .firsta .firstaleft{
+    width: 1.2rem;
+    height: 100%;
+    margin-left: 0.1rem;
+    color: #333333;
+    font-size: 0.16rem;
+    line-height: 1rem;
+    text-align: center;
+}
+.contain .surf .first .firsta .firstaright{
+    width: 4rem;
+    height: 100%;
+    margin-right: 0.2rem;
+    color: #333333;
+    font-size: 0.16rem;
+    line-height: 1rem;
+    text-align: right;
+}
+.contain .surf .first .firstb{
+    width: 100%;
+    height: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.contain .surf .first .firstb .firstbleft{
+    width: 1.2rem;
+    height: 100%;
+    margin-left: 0.1rem;
+    color: #333333;
+    font-size: 0.16rem;
+    line-height: 1rem;
+    text-align: center;
+}
+.contain .surf .first .firstb .firstbright{
+    width: 4rem;
+    height: 100%;
+    margin-right: 0.2rem;
+    color: #333333;
+    font-size: 0.16rem;
+    line-height: 1rem;
+    text-align: right;
+}
+hr{
+    width: 6.5rem;
+    height: 0.01rem;
+    color: #f3f2f2;
+    margin: 0 auto;
+}
+.contain .surf .second{
+    width: 100%;
+    height: 7.6rem;
+    background: #f8f1f2;
+    margin-top: 0.14rem;
+    border: 2px solid #f4e817;
+}
+.contain .surf .second .one{
+    width: 100%;
+    height: 1.26rem;
+    display: flex;
+    justify-content: space-between;
+}
+.contain .surf .second .one .ba{
+    font-size: 0.32rem;
+    color: #333333;
+    line-height: 1.16rem;
+    margin: 0 auto;
+}
+.contain .surf .second .one .bc{
+    font-size: 0.32rem;
+    color: #a0a0a0;
+    line-height: 1.16rem;
+    margin-right: 0.2rem;
+}
+.contain .surf .second .two{
+    width: 100%;
+    height: 1.26rem;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0.1rem;
+    align-items: center;
+}
+.contain .surf .second .two .ta{
+    width: 1.92rem;
+    height: 1.26rem;
+    color: #333;
+    font-size: 0.24rem;
+    line-height: 1.26rem;
+    display: flex;
+    justify-content: space-between;
+}
+.contain .surf .second .two .ta i{
+    width: 0.57rem;
+    height: 0.63rem;
+    font-size: 0.63rem;
+}
+.contain .surf .second .two .ta .yu{
+    width: 1.07rem;
+    height: 0.63rem;
+    font-size: 0.26rem;
+}
+.contain .surf .second .two .tb{
+    width: 0.36rem;
+    height: 0.36rem;
+    margin-right: 0.2rem;
+    border-radius: 50%;
+    font-size: 0.16rem;
+    text-align: center;
+    line-height: 0.36rem;
+    color: #ffffff;
+    background: #17eb17;
+}
+.contain .surf .second .three{
+    width: 100%;
+    height: 1.26rem;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0.1rem;
+    align-items: center;
+}
+.contain .surf .second .three .ta{
+    width: 1.92rem;
+    height: 1.26rem;
+    color: #333;
+    font-size: 0.24rem;
+    line-height: 1.26rem;
+    display: flex;
+    justify-content: space-between;
+}
+.contain .surf .second .three .ta i{
+    width: 0.57rem;
+    height: 0.63rem;
+    font-size: 0.63rem;
+    color: blue;
+}
+.contain .surf .second .three .ta .yu{
+    width: 1.07rem;
+    height: 0.63rem;
+    font-size: 0.26rem;
+}
+.contain .surf .second .three .tb{
+    width: 0.36rem;
+    height: 0.36rem;
+    background: #b4bdb3;
+    margin-right: 0.2rem;
+    border-radius: 50%;
+    font-size: 0.16rem;
+    text-align: center;
+    line-height: 0.36rem;
+    color: #ffffff;
+}
+.contain .surf .second .three .ta .icon-mayihuabei{
+    color: #37bfaa;
+}
+.contain .surf .second .three .ta .icon-yinhangqia{
+    color: #e51fe3;
+}
+.contain .surf .second .three .ta .icon-big-WeChat{
+    color: #28e51f;
+}
+.footer{
+    width: 100%;
+    height: 0.98rem;
+    background: #5c5656;
+    padding: 0 0 0 0.24rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.footer .fleft{
+    width: 0.8rem;
+    height: 0.98rem;
+    color: #ffffff;
+    font-size: 0.24rem;
+    line-height: 0.98rem;
+    text-align: center;
+}
+.footer .fright{
+    width: 1.84rem;
+    height: 0.98rem;
+    background: #6f6a6a;
+    color: #ffffff;
+    font-size: 0.24rem;
+    line-height: 0.98rem;
+    text-align: center;
+    display: block;
+}

@@ -1,0 +1,251 @@
+.first{
+    width: 100%;
+    height: 2.67rem;
+    background: #eb7ccd;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+}
+.first .fone{
+    width: 100%;
+    height: 0.88rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.first .fone .fonea{
+    width: 0.47rem;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.first .fone .foneb{
+    width: 6.48rem;
+    height: 100%;
+    color: #ffffff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.first .fone .foneb .dyga{
+    font-size: 0.36rem;
+    color: #ffffff;
+}
+.first .fone .foneb .dygb{
+    font-size: 0.2rem;
+    color: #ffffff;
+}
+.first .fone .fonec{
+    width: 0.55rem;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.first .fone i{
+    font-size: 0.58rem;
+    color: #ffffff;
+    line-height: 0.88rem;
+    text-align: center;
+}
+.first .ftwo{
+    width: 100%;
+    height: 1.79rem;
+    display: flex;
+    justify-content: space-between;
+}
+.first .ftwo .ftwoa{
+    width: 3.8rem;
+    height: 100%;
+    display: flex;
+}
+.first .ftwo .ftwoa .onea{
+    width: 1.56rem;
+    height: 1.56rem;
+    border-radius: 50%;
+    margin-top: 0.18rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f4e817;
+}
+.first .ftwo .ftwoa .oneb{
+    width: 2.24rem;
+    height: 100%;
+    padding-left: 0.1rem;
+    box-sizing: border-box;
+}
+.first .ftwo .ftwoa .oneb .onebaa{
+    flex-grow: 1;
+    height: 50%;
+    color: #ffffff;
+    font-size: 0.3rem;
+    line-height: 0.895rem;
+    text-align: center;
+}
+.first .ftwo .ftwoa .oneb .onebcc{
+    flex-grow: 1;
+    height: 50%;
+    color: #ffffff;
+    font-size: 0.24rem;
+    line-height: 0.895rem;
+    text-align: center;
+}
+.first .ftwo .ftwoa .oneb .onebcc i{
+    color: #ffffff;
+    font-size: 0.3rem;
+}
+.first .ftwo .ftwoa i{
+    font-size: 1.3rem;
+    width: 1.3rem;
+    height: 1.2rem;
+    text-align: center;
+}
+.first .ftwo .ftwob{
+    width: 0.28rem;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.first .ftwo .ftwob i{
+    font-size: 0.36rem;
+    line-height: 1.79rem;
+    color: #ffffff;
+}
+.second{
+    width: 100%;
+    height: 1.26rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 0.24rem;
+}
+.second .seconda{
+    flex-grow: 1;
+    height: 0.68rem;
+    font-size: 0.22rem;
+    color: #000000;
+    text-align: center;
+    border-right: 0.03rem solid #8c7f84;
+    box-sizing: border-box;
+}
+.second .secondb{
+    flex-grow: 1;
+    height: 0.68rem;
+    font-size: 0.22rem;
+    color: #000000;
+    text-align: center;
+    border-right: 0.03rem solid #8c7f84;
+    box-sizing: border-box;
+}
+.second .secondc{
+    flex-grow: 1;
+    height: 0.68rem;
+    font-size: 0.22rem;
+    color: #000000;
+    text-align: center;
+}
+.third{
+    width: 100%;
+    height: 8.4rem;
+}
+.third .thirda{
+    width: 100%;
+    height: 1.05rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    border-top: 0.02rem solid #8c7f84;
+}
+.third .thirda .left{
+    width: 2.05rem;
+    height: 100%;
+    display: flex;
+}
+.third .thirda .left .lefta{
+    width: 0.45rem;
+    height: 100%;
+    align-items: center;
+    display: flex;
+}
+.third .thirda .left .lefta .icon-shouhuodizhi{
+    font-size: 0.45rem;
+    color: #9d84e4;
+}
+.third .thirda .left .lefta .icon-shixintaoxin{
+    font-size: 0.45rem;
+    color: #e659ad;
+}
+.third .thirda .left .lefta .icon-lipintianchong{
+    font-size: 0.45rem;
+    color: #ea455c;
+}
+.third .thirda .left .lefta .icon-jinbishangchengyuan{
+    font-size: 0.45rem;
+    color: #d7d250;
+}
+.third .thirda .left .leftb{
+    width: 1.6rem;
+    height: 100%;
+    font-size: 0.18rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0.2rem;
+    box-sizing: border-box;
+    line-height: 0.4rem;
+}
+.third .thirda .right{
+    width: 2.1rem;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.third .thirda .right i{
+    font-size: 0.26rem;
+    color: #000;
+    line-height: 1.05rem;
+    text-align: center;
+}
+.dibu{
+    width: 100%;
+    height: 1.01rem;
+    background: #645f62;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.dibu .coming{
+    width: 20%;
+    height: 1.01rem;
+    float: left;
+    color: #ffffff;
+    font-size: 0.1rem;
+    text-align: center;
+    margin-top: 0.18rem;
+}
+.dibu .coming i{
+    width: 100%;
+    height: 0.4rem;
+    text-align: center;
+    color: #ffffff;
+    font-size: 0.4rem;
+}
+.dibu .coming .ou{
+    width: 100%;
+    height: 0.2rem;
+    color: #ffffff;
+    font-size: 0.2rem;
+    text-align: center;
+}
+.dibu .coming .serg{
+    color: red;
+}
+.dibu .coming .py{
+    color: red;
+}

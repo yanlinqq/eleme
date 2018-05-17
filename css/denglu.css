@@ -1,0 +1,257 @@
+header{
+    width: 100%;
+    height: 1.84rem;
+    background-image: url("../img/dian.png");
+    background-size: cover;
+}
+.touxiang{
+    width: 100%;
+    height: 1.86rem;
+    position: relative;
+}
+.touxiang img{
+    width: 1.61rem;
+    height: 1.61rem;
+    position: absolute;
+    left: 3rem;
+    top: -0.22rem;
+}
+.zhu{
+    width: 100%;
+    height: 0.86rem;
+    color: #8c7f84;
+    font-size: 0.22rem;
+    line-height: 0.86rem;
+    text-align: center;
+}
+.ce{
+    width: 100%;
+    height: 0.82rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ce .ss{
+    width: 1.26rem;
+    height: 0.24rem;
+    color: #e855d2;
+    font-size: 0.2rem;
+    line-height: 0.24rem;
+    text-align: center;
+}
+.ce .zuo{
+    width: 0.65rem;
+    height: 0.1rem;
+    display: flex;
+    justify-content: center;
+}
+.ce img{
+    width: 0.44rem;
+    height: 0.1rem;
+    font-size: 0.1rem;
+    line-height: 0.1rem;
+    text-align: center;
+}
+.ce .you{
+    width: 0.65rem;
+    height: 0.1rem;
+    display: flex;
+    justify-content: center;
+}
+.one{
+    width: 5.07rem;
+    height: 2rem;
+    background: #f4e817;
+    position: relative;
+    margin: 0.79rem auto 0;
+    border-radius: 0.2rem;
+}
+.two{
+    width: 5.63rem;
+    height: 3.9rem;
+    background: #ffffff;
+    margin: 0 auto;
+    position: absolute;
+    left: 0.9rem;
+    top: 6.5rem;
+    border-radius: 0.2rem;
+    box-shadow: 0.01rem 0.01rem 0 0.03rem rgba(0,0,0,0.1);
+}
+.two .ba{
+    width: 1.3rem;
+    height: 0.72rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 0.3rem;
+}
+.two .ba .baone{
+    width: 0.18rem;
+    height: 0.18rem;
+    border-radius: 50%;
+    background: #a4a1a3;
+}
+.two .ba .batwo{
+    width: 0.18rem;
+    height: 0.18rem;
+    background: #e833e8;
+    border-radius: 50%;
+}
+.two .bb {
+    width: 5.17rem;
+    height: 0.65rem;
+    margin: 0 auto;
+    padding-top: 0.16rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 0.01rem solid #e1dadd;
+}
+.two .bb .bba{
+    width: 0.26rem;
+    height: 0.06rem;
+    background: #0ff1f1;
+    border-radius: 0.02rem;
+}
+.two .bb input{
+    width: 3.1rem;
+    height: 0.4rem;
+    border: none;
+}
+.two .bb .bbc{
+    width: 0.64rem;
+    height: 0.39rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.two .bb .bbc i{
+    width: 0.3rem;
+    height: 100%;
+    color: #e74343;
+    line-height: 0.39rem;
+}
+.two .cc {
+    width: 5.17rem;
+    height: 0.65rem;
+    margin: 0 auto;
+    padding-top: 0.16rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /*border-bottom: 0.01rem solid #8c7f84;*/
+}
+.two .cc .bba{
+    width: 0.26rem;
+    height: 0.26rem;
+    background: #e833e8;
+    border-radius: 50%;
+    font-size: 0.2rem;
+    line-height: 0.26rem;
+    text-align: center;
+    color: #ffffff;
+}
+.two .cc input{
+    width: 3.1rem;
+    height: 0.4rem;
+    border: none;
+}
+.two .cc .bbc{
+    width: 0.64rem;
+    height: 0.39rem;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.08rem;
+}
+.two .cc .bbc i{
+    width: 0.3rem;
+    height: 100%;
+    color: #e74343;
+    line-height: 0.39rem;
+}
+.two .dd {
+    width: 5.17rem;
+    height: 0.65rem;
+    margin: 0 auto;
+    padding-top: 0.16rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 0.01rem solid #e1dadd;
+}
+.two .dd .bba{
+    width: 0.26rem;
+    height: 0.06rem;
+    background: #0ff1f1;
+    border-radius: 0.02rem;
+}
+.two .dd input{
+    width: 3.1rem;
+    height: 0.4rem;
+    border: none;
+}
+.two .dd .bbc{
+    width: 0.64rem;
+    height: 0.39rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.08rem;
+    font-size: 0.14rem;
+    color: #ffffff;
+}
+.two .dd .bbc i{
+    width: 0.3rem;
+    height: 100%;
+    color: #e74343;
+    line-height: 0.39rem;
+}
+.two .be{
+    width: 1.66rem;
+    height: 0.37rem;
+    background: #8c7f84;
+    margin: 0.68rem auto 0;
+    border-radius: 0.09rem;
+    font-size: 0.22rem;
+    color: #ffffff;
+    line-height: 0.37rem;
+    text-align: center;
+}
+footer{
+    width: 60%;
+    height: 0.98rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 3.2rem;
+    margin: 3.2rem auto 0;
+}
+footer .lefta{
+    width: 0.98rem;
+    height: 0.98rem;
+    border-radius: 50%;
+    background-image: url("../img/qq(2).png");
+    font-size: 0.98rem;
+    background-size: cover;
+
+}
+footer .leftb{
+    width: 0.98rem;
+    height: 0.98rem;
+    background-image: url("../img/wechat.png");
+    font-size: 0.98rem;
+    background-size: cover;
+
+}
+footer .leftc{
+    width: 0.98rem;
+    height: 0.98rem;
+    border-radius: 50%;
+    background-image: url("../img/weibo.png");
+    font-size: 0.98rem;
+    background-size: cover;
+}
